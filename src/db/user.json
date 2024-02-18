@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Juan",
+      "age": 25,
+      "email": "correo@correo.com",
+      "phone": "1234567890",
+      "address": {
+        "street": "calle",
+        "number": "123",
+        "city": "ciudad",
+        "state": "estado",
+        "zip": "12345"
+      },
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}
