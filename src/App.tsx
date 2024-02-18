@@ -26,7 +26,7 @@ const App: React.FC = () => {
     
   };
 
-  console.log(userData);
+
 
   return (
     <>
